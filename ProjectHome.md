@@ -1,0 +1,1 @@
+Use this widget to create a Gantt Chart for project management using HTML5 Canvas technology & jQuery
